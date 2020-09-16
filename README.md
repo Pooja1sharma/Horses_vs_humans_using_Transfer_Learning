@@ -1,1 +1,1 @@
-# cnn_t
+Horse and Girl image classifier
